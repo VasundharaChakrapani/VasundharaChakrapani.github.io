@@ -108,3 +108,12 @@ body.light{background:linear-gradient(180deg,#f9fbff,#f2f7ff);color:#071226}
 body.light .nav a, body.light .socials a{color:#40546b}
 body.light .muted{color:#6b7788}
 body.light .card-glow{box-shadow:none}
+/* Additional light-mode fixes for readable links and text */
+body.light .section-title{color:#254b63}
+body.light .lead{color:#2b4758}
+body.light .card{background:rgba(255,255,255,0.96);color:#071226;border:1px solid rgba(7,18,38,0.06)}
+body.light .card h3{color:#071226}
+body.light .project-sample h4, body.light .project-sample p{color:#12384b}
+body.light a{color:#0b5bd6}
+body.light a:hover{color:#07366a;text-decoration:underline}
+body.light .decor-blob{filter:blur(22px) saturate(120%);opacity:0.75}
